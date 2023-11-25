@@ -7,7 +7,7 @@ Consumes a JSON:
 
 {
   "email": "your@email.com", // Must have a valid format (with @ and .)
-  "password": "secret" // Must have at least five characters
+  "password": "password" // Must have at least five characters
 }
 GET /quiz
 Get a sample quiz
